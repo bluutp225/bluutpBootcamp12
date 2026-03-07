@@ -21,3 +21,6 @@ print("Goodbye!")
 
 # print new line
 print("I'm learning Github!")
+
+# print hello world 
+print("Now I know what git and github is. Easy!")
