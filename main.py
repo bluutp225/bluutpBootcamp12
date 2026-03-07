@@ -12,3 +12,12 @@ print("Hello, Kotlin!")
 print("Hello, Swift!")
 print("Hello, Dart!")
 print("Goodbye!")
+
+# print hello world
+print("Hello, World!")
+
+# print good bye 
+print("Goodbye!")
+
+# print new line
+print("I'm learning Github!")
